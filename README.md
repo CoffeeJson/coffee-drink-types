@@ -1,2 +1,4 @@
-# coffee-drink-types
-A json object full of different coffee types
+# A list of different Coffees
+
+- A JSON object full of different coffee types.
+- I know theres some missing feel free to add more.
